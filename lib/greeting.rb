@@ -1,2 +1,2 @@
-def greeting(nam)
+def greeting(name)
 end
